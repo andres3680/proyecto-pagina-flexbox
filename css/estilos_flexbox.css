@@ -322,7 +322,7 @@ header{
 
 .textoRecuerda {
     position: relative;
-    right: 30%;
+    right: 23%;
     padding: 10px 10px;
     color: rgb(173, 173, 173);
 }
@@ -555,6 +555,12 @@ header{
             text-align: left;
         
         }
+     
+    .textoRecuerda {
+            right: 35%;
+            
+        }
+        
         
         .boton input {
             width: 90%;
